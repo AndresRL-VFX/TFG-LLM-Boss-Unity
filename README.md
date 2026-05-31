@@ -56,7 +56,7 @@ La build jugable está disponible en la sección **[Releases](../../releases)** 
 
 - Latencia entre 3 y 5 segundos por interacción.
 - Whisper puede fallar al transcribir frases cortas o mal vocalizadas.
-- Requiere clave de OpenAI de pago (coste por llamada).
+
 
 ---
 
