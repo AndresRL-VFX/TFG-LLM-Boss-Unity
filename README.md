@@ -58,9 +58,4 @@ La build jugable está disponible en la sección **[Releases](../../releases)** 
 - Whisper puede fallar al transcribir frases cortas o mal vocalizadas.
 
 
----
 
-## Licencia
-
-Proyecto académico de uso libre con fines educativos.
-El uso de la API de OpenAI está sujeto a sus propios términos.
